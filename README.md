@@ -10,7 +10,8 @@ Para comenzar deberás iniciar sesión con tu cuenta actual. En caso de que toda
   
   ![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/login.png?alt=media&token=6d2f0670-915f-40be-99fb-d4f228001a11)
   
-  # Iniciar un pedido. son tres pasos, 1) elige una mesa disponble 2) los productos a consumir 3) confimar el pedido
+  # Iniciar un pedido.
+  Es muy simple en tres pasos: 1) elige una mesa disponble 2) agrega productos a consumir 3) confimar el pedido.
   
   ![alt text]( https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/iniciar.png?alt=media&token=1ee7eb23-e4c3-4517-bf24-2ff1999f2251)
 
