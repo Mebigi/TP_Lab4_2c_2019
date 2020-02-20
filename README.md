@@ -14,6 +14,11 @@ Para comenzar deberás iniciar sesión con tu cuenta actual. En caso de que toda
   Es muy simple en tres pasos: 1) elige una mesa disponble 2) agrega productos a consumir 3) confimar el pedido.
   
   ![alt text]( https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/iniciar.png?alt=media&token=1ee7eb23-e4c3-4517-bf24-2ff1999f2251)
+  
+# Consultar el estado
+
+Ingresando a consulta de estado puedes visualizar los estados del pedido.
+ ![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/estado_i.png?alt=media&token=db734d44-693b-403a-9b74-166e642755f0)
 
    
 
