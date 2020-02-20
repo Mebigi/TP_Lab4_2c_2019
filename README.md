@@ -20,5 +20,9 @@ Para comenzar deberás iniciar sesión con tu cuenta actual. En caso de que toda
 Ingresando a consulta de estado puedes visualizar los estados del pedido.
  ![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/estado_i.png?alt=media&token=db734d44-693b-403a-9b74-166e642755f0)
 
+# Visualizacion y modificación del perfil
+
+Ingresando a mi cuenta se puede modificar la foto de  perfil.
+ ![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/perfil.png?alt=media&token=4947eed5-3bcd-4d49-a1af-036d951ccbaa)
    
 
