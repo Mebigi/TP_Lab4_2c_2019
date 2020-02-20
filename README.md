@@ -1,10 +1,7 @@
-# TP_Lab4_2c_2019
+![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/encabezado.png?alt=media&token=5a7fbc88-f01f-44d0-82fd-c268f6eccb21)
 
-   Link al form https://forms.gle/nauVzL5CmyP3rkLG6
-   
-   
   Protop es un sitio de gestión de pedidos, donde los clientes puede autogestionar, cosunsultar la carta, y ver los estados de los pedidos
-  
+
  # Ingresar
 Para comenzar deberás iniciar sesión con tu cuenta actual. En caso de que todavía no poseas una, podés registrarte gratuitamente.
   
