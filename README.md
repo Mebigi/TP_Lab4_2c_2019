@@ -26,3 +26,22 @@ Ingresando a mi cuenta se puede modificar la foto de  perfil.
 Al Finalizar se habilitara una breve encuesta de satisfacción la misma estará visible al ingresar al sistema.
 ![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/encuesta.png?alt=media&token=25eba071-ad34-43a5-b3c8-70e4de202229)
 
+# Empleados
+los empleados pueden segun el perfil los estados y ejercer diferentes acciones sobre los mismos, como tomar el pedido, estimar el tiempo de realización, indicar que el pedido esta en preparacion, etc
+![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/estado_p.png?alt=media&token=c6b46ee1-d9c1-41a5-9699-ca750233f81e)
+
+# Los Socios 
+tienen el perfil de Admininstrador y pueden ver todos los estados de los todos pedidos antes mencionados.
+
+![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/socio_p.png?alt=media&token=07db5921-fcc4-4a53-9988-c6f581c0e99d)
+
+Administrar mesas, productos, usuarios desde el menu principal
+![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/admin_mesas.png?alt=media&token=aa5b4edc-a3ee-432f-a77d-7f7249306fc5)
+
+Ver los resultados de las encuestas
+![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/admin_enc.png?alt=media&token=8507bf7a-3332-481b-aaeb-7bce55f0c54e)
+
+Ver esstadisticas
+![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/admin_est.png?alt=media&token=c6cfb198-00af-4d41-bf73-30c55d1588de)
+
+
