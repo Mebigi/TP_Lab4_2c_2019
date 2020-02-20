@@ -25,7 +25,7 @@ Ingresando a consulta de estado puedes visualizar los estados del pedido.
 Ingresando a mi cuenta se puede modificar la foto de  perfil.
  ![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/perfil.png?alt=media&token=4947eed5-3bcd-4d49-a1af-036d951ccbaa)
 
-# Al Finalizar se habilitara una breve encuesta de satisfacción 
-Estará visible al ingresar al sistema
-https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/encuesta.png?alt=media&token=25eba071-ad34-43a5-b3c8-70e4de202229
+# Encuesta
+Al Finalizar se habilitara una breve encuesta de satisfacción la misma estará visible al ingresar al sistema.
+![alt text](https://firebasestorage.googleapis.com/v0/b/prontopcomanda.appspot.com/o/encuesta.png?alt=media&token=25eba071-ad34-43a5-b3c8-70e4de202229)
 
